@@ -1,0 +1,281 @@
+`
+### WordPress Environment ###
+
+WordPress address (URL): https://
+Site address (URL): https://
+WC Version: 5.4.1
+REST API Version: ✔ 5.4.1
+WC Blocks Version: ✔ 5.3.0
+Action Scheduler Version: ✔ 3.1.6
+WC Admin Version: ✔ 2.3.1
+Log Directory Writable: ✔
+WP Version: 5.7.2
+WP Multisite: –
+WP Memory Limit: 512 MB
+WP Debug Mode: –
+WP Cron: ✔
+Language: en_US
+External object cache: –
+
+### Server Environment ###
+
+Server Info: Apache
+PHP Version: 7.3.28
+PHP Post Max Size: 512 MB
+PHP Time Limit: 300
+PHP Max Input Vars: 512
+cURL Version: 7.64.0
+OpenSSL/1.1.1d
+
+SUHOSIN Installed: –
+MySQL Version: 5.7.33-log
+Max Upload Size: 512 MB
+Default Timezone is UTC: ✔
+fsockopen/cURL: ✔
+SoapClient: ✔
+DOMDocument: ✔
+GZip: ✔
+Multibyte String: ✔
+Remote Post: ✔
+Remote Get: ✔
+
+### Database ###
+
+WC Database Version: 5.4.1
+WC Database Prefix: YDPhMneC
+Total Database Size: 37.60MB
+Database Data Size: 29.37MB
+Database Index Size: 8.23MB
+YDPhMneCwoocommerce_sessions: Data: 1.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCwoocommerce_api_keys: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCwoocommerce_attribute_taxonomies: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCwoocommerce_downloadable_product_permissions: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+YDPhMneCwoocommerce_order_items: Data: 0.16MB + Index: 0.06MB + Engine InnoDB
+YDPhMneCwoocommerce_order_itemmeta: Data: 1.52MB + Index: 0.89MB + Engine InnoDB
+YDPhMneCwoocommerce_tax_rates: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+YDPhMneCwoocommerce_tax_rate_locations: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCwoocommerce_shipping_zones: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwoocommerce_shipping_zone_locations: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCwoocommerce_shipping_zone_methods: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwoocommerce_payment_tokens: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCwoocommerce_payment_tokenmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCwoocommerce_log: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+quickbooks_oauthv2: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCactionscheduler_actions: Data: 1.44MB + Index: 0.36MB + Engine InnoDB
+YDPhMneCactionscheduler_claims: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCactionscheduler_groups: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCactionscheduler_logs: Data: 0.47MB + Index: 0.20MB + Engine InnoDB
+YDPhMneCatum_order_itemmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCatum_order_items: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCatum_product_data: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+YDPhMneCcommentmeta: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCcomments: Data: 1.52MB + Index: 0.45MB + Engine InnoDB
+YDPhMneCfailed_jobs: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCfusion_forms: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCfusion_form_entries: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCfusion_form_fields: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCfusion_form_submissions: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneClinks: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCmailchimp_carts: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCmailchimp_jobs: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCoptions: Data: 8.45MB + Index: 0.34MB + Engine InnoDB
+YDPhMneCpostmeta: Data: 5.52MB + Index: 4.03MB + Engine InnoDB
+YDPhMneCposts: Data: 6.52MB + Index: 0.23MB + Engine InnoDB
+YDPhMneCpum_subscribers: Data: 0.02MB + Index: 0.06MB + Engine InnoDB
+YDPhMneCqueue: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrednao_wc_invoice: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrednao_wc_invoices_created: Data: 0.06MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrednao_wc_invoices_custom_field: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrevslider_css: Data: 0.16MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrevslider_css_bkp: Data: 0.14MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrevslider_layer_animations: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrevslider_layer_animations_bkp: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrevslider_navigations: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrevslider_navigations_bkp: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrevslider_sliders: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrevslider_sliders_bkp: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrevslider_slides: Data: 0.17MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrevslider_slides_bkp: Data: 0.22MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrevslider_static_slides: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCrevslider_static_slides_bkp: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCtermmeta: Data: 0.05MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCterms: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCterm_relationships: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCterm_taxonomy: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCusermeta: Data: 0.11MB + Index: 0.08MB + Engine InnoDB
+YDPhMneCusers: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+YDPhMneCwc_admin_notes: Data: 0.05MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwc_admin_note_actions: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCwc_category_lookup: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwc_customer_lookup: Data: 0.11MB + Index: 0.06MB + Engine InnoDB
+YDPhMneCwc_download_log: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCwc_order_coupon_lookup: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCwc_order_product_lookup: Data: 0.14MB + Index: 0.16MB + Engine InnoDB
+YDPhMneCwc_order_stats: Data: 0.11MB + Index: 0.05MB + Engine InnoDB
+YDPhMneCwc_order_tax_lookup: Data: 0.05MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCwc_product_meta_lookup: Data: 0.02MB + Index: 0.09MB + Engine InnoDB
+YDPhMneCwc_reserved_stock: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwc_tax_rate_classes: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCwc_webhooks: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCwdr_order_discounts: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwdr_order_item_discounts: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwdr_rules: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwfpklist_template_data: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwpinventory_category: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwpinventory_image: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCwpinventory_item: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCwpinventory_label: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwpinventory_ledger: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwpinventory_ledger_invoice: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwpinventory_ledger_invoice_line: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCwpinventory_ledger_item_cost: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwpinventory_ledger_to_invoice: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+YDPhMneCwpinventory_loc_inventory_to_location: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCwpinventory_loc_location: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+YDPhMneCwpinventory_loc_transfer: Data: 0.02MB + Index: 0.05MB + Engine InnoDB
+YDPhMneCwpinventory_media: Data: 0.02MB + Index: 0.02MB + Engine InnoDB
+YDPhMneCwpinventory_reservation_item: Data: 0.02MB + Index: 0.03MB + Engine InnoDB
+YDPhMneCwpinventory_status: Data: 0.02MB + Index: 0.00MB + Engine InnoDB
+
+### Post Type Counts ###
+
+attachment: 175
+fusion_element: 5
+fusion_template: 1
+jetpack_migration: 2
+jp_img_sitemap: 1
+jp_sitemap: 1
+jp_sitemap_master: 1
+nav_menu_item: 21
+page: 24
+popup: 1
+popup_theme: 8
+post: 2
+product: 42
+revision: 212
+shop_coupon: 2
+shop_order: 416
+slide: 7
+spucpt: 1
+wpcf7_contact_form: 3
+
+### Security ###
+
+Secure connection (HTTPS): ✔
+Hide errors from visitors: ✔
+
+### Active Plugins (21) ###
+
+ATUM Inventory Management for WooCommerce: by Stock Management Labs™ – 1.9.0.1
+Contact Form 7: by Takayuki Miyoshi – 5.4.1
+Avada Builder: by ThemeFusion – 3.3.1
+Avada Core: by ThemeFusion – 5.3.1
+Import and export users and customers: by codection – 1.17.6
+Jetpack: by Automattic – 9.8.1
+Mailchimp for WooCommerce: by Mailchimp – 2.5.1
+PayPal Donations: by Tips and Tricks HQ
+Johan Steen – 1.9.7
+
+Poptin: by Poptin – 1.2.1
+Popup Maker: by Popup Maker – 1.16.1
+Really Simple SSL: by Really Simple Plugins – 4.0.15
+UpdraftPlus - Backup/Restore: by UpdraftPlus.Com
+DavidAnderson – 1.16.56
+
+Challan - PDF Invoice & Packing Slip for WooCommerce: by WebAppick – 3.2.13
+WooCommerce Blocks: by Automattic – 5.3.0
+Advanced Order Export For WooCommerce: by AlgolPlus – 3.1.8
+WooCommerce Admin: by WooCommerce – 2.3.1
+WooCommerce PayPal Checkout Gateway: by WooCommerce – 2.1.1
+WooCommerce PayPal Here Gateway: by WooCommerce – 1.1.3
+WooCommerce Shipping & Tax: by WooCommerce – 1.25.13
+WooCommerce: by Automattic – 5.4.1
+WP Instant Feeds: by mnmlthms – 1.3.4
+
+### Inactive Plugins (1) ###
+
+WooCommerce - ShipStation Integration: by WooCommerce – 4.1.42
+
+### Must Use Plugins (1) ###
+
+1&1 Product Subdomain: by 1&1 – 1.1.0
+
+### Settings ###
+
+API Enabled: –
+Force SSL: –
+Currency: USD ($)
+Currency Position: left
+Thousand Separator: ,
+Decimal Separator: .
+Number of Decimals: 2
+Taxonomies: Product Types: external (external)
+grouped (grouped)
+simple (simple)
+variable (variable)
+
+Taxonomies: Product Visibility: exclude-from-catalog (exclude-from-catalog)
+exclude-from-search (exclude-from-search)
+featured (featured)
+outofstock (outofstock)
+rated-1 (rated-1)
+rated-2 (rated-2)
+rated-3 (rated-3)
+rated-4 (rated-4)
+rated-5 (rated-5)
+
+Connected to WooCommerce.com: ✔
+
+### WC Pages ###
+
+Shop base: #16552 - /shop-full-width
+Cart: #16564 - /cart
+Checkout: #16586 - /checkout
+My account: #16576 - /my-account
+Terms and conditions: ❌ Page not set
+
+### Theme ###
+
+Name: Avada
+Version: 7.3.1
+Author URL: https://themeforest.net/user/ThemeFusion
+Child Theme: ❌ – If you are modifying WooCommerce on a parent theme that you did not build personally we recommend using a child theme. See: How to create a child theme
+WooCommerce Support: ✔
+
+### Templates ###
+
+Overrides: Avada/woocommerce/cart/cart.php
+Avada/woocommerce/checkout/form-pay.php
+Avada/woocommerce/checkout/review-order.php
+Avada/woocommerce/checkout/thankyou.php
+Avada/woocommerce/loop/loop-start.php
+Avada/woocommerce/single-product/add-to-cart/variable.php
+Avada/woocommerce/single-product/short-description.php
+Avada/woocommerce/single-product/tabs/additional-information.php
+Avada/woocommerce/single-product/tabs/description.php
+
+
+### PayPal Here ###
+
+Environment: Production
+Debug Mode: Save to Log
+
+### Action Scheduler ###
+
+Complete: 1,039
+Oldest: 2021-05-11 11:16:40 -0500
+Newest: 2021-06-11 10:30:04 -0500
+
+Failed: 1
+Oldest: 2019-06-10 23:08:28 -0500
+Newest: 2019-06-10 23:08:28 -0500
+
+Pending: 5
+Oldest: 2021-06-11 10:33:50 -0500
+Newest: 2021-06-11 20:51:09 -0500
+
+
+### Status report information ###
+
+Generated at: 2021-06-11 10:34:09 -05:00
+`
